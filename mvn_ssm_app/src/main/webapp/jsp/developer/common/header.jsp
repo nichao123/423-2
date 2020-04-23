@@ -27,7 +27,7 @@
 	<link href="${pageContext.request.contextPath }/statics/css/jqvmap.min.css" rel="stylesheet" />
 	<link href="${pageContext.request.contextPath }/statics/css/dropzone.min.css" rel="stylesheet">
 	<!-- Custom Theme Style -->
-	<link href="${pageContext.request.contextPath }/statics/css/custom.min.css"	rel="stylesheet">
+	<link href="${pageContext.request.contextPath }/statics/css/custom.min.css" rel="stylesheet">
 	
 	<!-- add localcss 2016-8-18 -->
 	<link href='${pageContext.request.contextPath }/statics/localcss/appinfoadd.css' rel='stylesheet'>

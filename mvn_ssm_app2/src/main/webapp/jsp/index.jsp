@@ -22,8 +22,8 @@
         <div class="col-middle">
             <div class="text-center">
                 <h1 class="error-number" style="font-size: 59px;">App后台管理系统</h1>
-                <a style="font-size:20px;" href="${pageContext.request.contextPath }/back/login">后台管理系统入口</a><br/><br/>
-                <a  style="font-size:20px;" href="${pageContext.request.contextPath }/dev/login">开发者平台入口</a>
+                <a style="font-size:20px;" href="${pageContext.request.contextPath }/jsp/backendlogin.jsp">后台管理系统入口</a><br/><br/>
+                <a  style="font-size:20px;" href="${pageContext.request.contextPath }/jsp/devlogin.jsp">开发者平台入口</a>
             </div>
         </div>
     </div>
